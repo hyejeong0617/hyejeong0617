@@ -31,17 +31,6 @@ I bring what most data scientists don't have — the domain knowledge to know *w
 
 ---
 
-## Background
-
-`PhD — Microbial Genomics & Quantitative Biology` · NTNU, Norway · 2019–2023  
-`Regulatory Data Analyst` · KIST Europe, Germany · 2017  
-`Scientific Data Reviewer` · Ministry of Food and Drug Safety, South Korea · 2015–2016  
-`M.Sc. Food Science` · University of Helsinki · *Eximia cum laude* · 2011–2014
-
-**4 peer-reviewed publications** — *Frontiers in Microbiology · Int. J. Food Microbiology · J. Applied Microbiology*
-
----
-
 ## Stack
 
 `Python` `scikit-learn` `XGBoost` `Optuna` `NLP` `Streamlit` `Plotly` `R`  
@@ -51,7 +40,7 @@ I bring what most data scientists don't have — the domain knowledge to know *w
 
 <div align="center">
 
-`Korean — Native` · `English — Advanced` · `German — A2`  
+`Korean — Native` · `English — Advanced`  
 Open to employment and independent project work in life sciences
 
 </div>
