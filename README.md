@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Hye-Jeong Lee, Ph.D.
+## Hyejeong Lee, Ph.D.
 
 **I turn life science data into decisions —**  
 **from whole-genome sequencing to EU regulatory risk prediction.**
@@ -17,7 +17,7 @@
 
 ---
 
-PhD scientist (NTNU, 2023) who builds ML systems where biology and regulation meet.  
+PhD scientist who builds ML systems where biology and regulation meet.  
 I bring what most data scientists don't have — the domain knowledge to know *what the data actually means*.
 
 ---
