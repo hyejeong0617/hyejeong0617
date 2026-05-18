@@ -1,88 +1,78 @@
-<!-- Hyejeong Lee · GitHub Profile README -->
+<!-- Hyejeong Lee · GitHub Profile README · Life Sciences Data Analyst/Scientist -->
 
 <div align="center">
 
 ## Hyejeong Lee, Ph.D.
 
-**Scientific Data Analyst — Life Sciences · Genomics · Regulatory Data**
+**Life Sciences Data Analyst · Genomics · Food Safety · Regulatory Data**
 
-[![RASFF Live App](https://img.shields.io/badge/▶%20RASFF%20Risk%20Predictor-1D9E75?style=flat-square&logo=streamlit&logoColor=white)](https://hyejeong0617-rasff-risk-predictor-rasff-app-xpyl1f.streamlit.app/)
-[![Foodborne Live App](https://img.shields.io/badge/▶%20Foodborne%20Dashboard-0F6E56?style=flat-square&logo=streamlit&logoColor=white)](https://cdcfoodborneoutbreakseda.streamlit.app/)
-[![AMR Live App](https://img.shields.io/badge/▶%20AMR%20in%20Your%20Sushi-0C447C?style=flat-square&logo=streamlit&logoColor=white)](https://amrgenomicsaeromonas.streamlit.app/)
+*PhD in Microbial Genomics (NTNU) · Applied ML (Ironhack 2025) · Based in Hannover, Germany*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyejeong%20Lee-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyejeong-lee-75887465/)
 [![Email](https://img.shields.io/badge/Contact-4B5563?style=flat-square&logo=gmail&logoColor=white)](mailto:hyejeong0617@gmail.com)
+[![RASFF App](https://img.shields.io/badge/Live%20App%20%E2%86%92%20RASFF%20Risk%20Predictor-1D9E75?style=flat-square&logo=streamlit&logoColor=white)](https://hyejeong0617-rasff-risk-predictor-rasff-app-xpyl1f.streamlit.app/)
 
 </div>
 
 ---
 
-Ph.D. scientist turned data analyst — genomics, food safety, and EU regulatory data.  
-I bring what most data scientists don't have — **domain knowledge that tells me what the data actually means**.
+PhD-trained scientist applying machine learning to biological and regulatory datasets — genomics, food safety surveillance, and EU regulatory data.
 
-My work sits at the intersection of **food safety · genomics · EU regulatory data** and applied ML.  
-Every project in this portfolio started from a real research or policy question, not a benchmark dataset.
+What separates my work from generic data science: **I know what the data actually means**. Recognising MNAR missingness patterns in regulatory submissions, interpreting MDR classifications in AMR surveillance, or knowing why a seasonal bimodal pattern in outbreak data reflects pathogen ecology rather than a reporting artefact — these decisions come from domain knowledge, not from the algorithm.
 
----
-
-## Projects
-
-| | Project | Domain | What it shows | Status |
-|---|---------|--------|---------------|--------|
-| 🟢 | [**RASFF Risk Predictor**](https://github.com/hyejeong0617/rasff_risk_predictor) | EU food safety · regulatory ML | End-to-end ML pipeline · NLP · production Streamlit app | **Live** |
-| 🟢 | [**Foodborne Outbreak EDA**](https://github.com/hyejeong0617/foodborne_outbreaks_eda) | Food safety surveillance · CDC data | Domain-informed EDA · entity normalisation · interactive dashboard | **Live** |
-| 🟢 | [**AMR in Your Sushi**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Microbial genomics · food safety · One Health | WGS bioinformatics pipeline · peer-reviewed publication · interactive dashboard | **Live** |
-
-**These three projects analyse the same food safety problem at three scales:**  
-molecular genomics → population surveillance → real-time EU regulatory signal.
+Open to **Life Sciences Data Analyst / Scientist** roles in biotech, pharma, CRO, and food safety — Germany or remote.
 
 ---
 
-## Stack
+## Portfolio
 
-**ML & Data Science**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189BC4?style=flat-square&logo=xgboost&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-3F4CE5?style=flat-square&logo=optuna&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+Three projects analysing the same domain at different scales: **molecular genomics → population surveillance → real-time EU regulatory signal.**
 
-**NLP & Deployment**  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-1D9E75?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4CE5?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+| Project | Domain | What it demonstrates | Links |
+|---------|--------|----------------------|-------|
+| [**RASFF Risk Predictor**](https://github.com/hyejeong0617/rasff_risk_predictor) | EU food safety · ML pipeline | End-to-end ML on 29,984 real regulatory records · NLP · leakage-free design · AUC 0.857 · live Streamlit app | [Repo](https://github.com/hyejeong0617/rasff_risk_predictor) · [Live app](https://hyejeong0617-rasff-risk-predictor-rasff-app-xpyl1f.streamlit.app/) |
+| [**Foodborne Outbreak EDA**](https://github.com/hyejeong0617/foodborne_outbreaks_eda) | Food safety surveillance · CDC | Domain-informed EDA of 18,828 outbreak records · entity normalisation · 3-page interactive dashboard | [Repo](https://github.com/hyejeong0617/foodborne_outbreaks_eda) · [Live app](https://cdcfoodborneoutbreakseda.streamlit.app/) |
+| [**AMR Genomics — *Aeromonas* spp.**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Microbial genomics · One Health | Full WGS bioinformatics pipeline · Python analysis reproducing peer-reviewed figures · DOI: 10.3389/fmicb.2023.1175304 | [Repo](https://github.com/hyejeong0617/amr_genomics_aeromonas) · [Live app](https://amrgenomicsaeromonas.streamlit.app/) · [Paper](https://doi.org/10.3389/fmicb.2023.1175304) |
 
-**Bioinformatics**  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![BLAST](https://img.shields.io/badge/BLAST%2B-2E86AB?style=flat-square)
-![SPAdes](https://img.shields.io/badge/SPAdes-5B8DB8?style=flat-square)
-![FastANI](https://img.shields.io/badge/FastANI-6BAF92?style=flat-square)
+> **Press coverage of the AMR genomics work:** [Nautilus Magazine](https://nautil.us/is-sushi-a-health-hazard-421668) · [IFLScience](https://www.iflscience.com/how-safe-is-the-sushi-you-eat-really-70899)
 
-**Domain**  
-![Food Safety](https://img.shields.io/badge/🧫%20Food%20Safety-085041?style=flat-square)
-![Genomics](https://img.shields.io/badge/🧬%20Genomics-0C447C?style=flat-square)
-![EU Regulatory](https://img.shields.io/badge/⚖️%20EU%20Regulatory-633806?style=flat-square)
-![AMR](https://img.shields.io/badge/💊%20AMR%20Surveillance-9B7BB8?style=flat-square)
+---
+
+## Technical stack
+
+**ML & Data Science**
+`Python` `pandas` `scikit-learn` `XGBoost` `LightGBM` `Optuna` `R` `SPSS`
+
+**NLP & Text Features**
+`TF-IDF` `sentence-transformers` `GPT-4o-mini (LLM feature extraction)`
+
+**Bioinformatics**
+`BBTools` `SPAdes` `BLAST+` `FastANI` `AMRFinderPlus` `Abricate` `MEGA11` `Bash/HPC`
+
+**Visualisation & Deployment**
+`Streamlit` `Plotly` `matplotlib` `seaborn` `Jupyter`
+
+**Domain**
+`Whole genome sequencing (WGS)` `AMR profiling` `Virulence factor analysis` `EU food law` `RASFF / EFSA data` `Growth kinetics modelling` `Risk assessment`
 
 ---
 
 ## Background
 
-`PhD — Microbial Genomics & Quantitative Biology` · NTNU, Norway · 2019–2023  
-`Regulatory Data Analyst` · KIST Europe, Germany · 2017  
-`Scientific Data Reviewer` · Ministry of Food and Drug Safety, South Korea · 2015–2016  
-`M.Sc. Food Science` · University of Helsinki · *Eximia cum laude* · 2011–2014
+| | |
+|---|---|
+| **PhD** | Microbial Genomics & Quantitative Biology · NTNU, Norway · 2019–2023 |
+| **ML retraining** | Data Science & ML Bootcamp · Ironhack · Oct–Dec 2025 |
+| **Regulatory analyst** | KIST Europe (EU REACH/K-REACH compliance) · Saarbrücken · 2017 |
+| **Scientific reviewer** | Ministry of Food and Drug Safety · Republic of Korea · 2015–2016 |
+| **M.Sc.** | Food Science (Microbiology & Molecular Methods) · University of Helsinki · *Eximia cum laude* |
 
-**4 peer-reviewed publications** — *Frontiers in Microbiology · Int. J. Food Microbiology · J. Applied Microbiology*  
-**Press coverage** — [Nautilus Magazine](https://nautil.us/is-sushi-a-health-hazard-421668) · [IFLScience](https://www.iflscience.com/how-safe-is-the-sushi-you-eat-really-70899)
+**4 peer-reviewed publications** — *Frontiers in Microbiology · Int. J. Food Microbiology · J. Applied Microbiology*
 
 ---
 
 <div align="center">
 
-`Korean — Native` · `English — Advanced` · `German — A2`  
-Open to employment and independent project work in life sciences
+`Korean — Native` &nbsp;·&nbsp; `English — Advanced` &nbsp;·&nbsp; `German — A2, developing`
 
 </div>
-
