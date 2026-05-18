@@ -6,7 +6,7 @@
 
 **Life Sciences Data Analyst · Genomics · Food Safety · Regulatory Data**
 
-*PhD in Microbial Genomics (NTNU) · Applied ML (Ironhack 2025) · Based in Hannover, Germany*
+*PhD in Food Microbiology (NTNU) · Based in Hannover, Germany*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyejeong%20Lee-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyejeong-lee-75887465/)
 [![Email](https://img.shields.io/badge/Contact-4B5563?style=flat-square&logo=gmail&logoColor=white)](mailto:hyejeong0617@gmail.com)
@@ -61,11 +61,11 @@ Three projects analysing the same domain at different scales: **molecular genomi
 
 | | |
 |---|---|
-| **PhD** | Microbial Genomics & Quantitative Biology · NTNU, Norway · 2019–2023 |
+| **PhD** | Food Safety & Microbial Genomics · NTNU, Norway · 2019–2023 |
 | **ML retraining** | Data Science & ML Bootcamp · Ironhack · Oct–Dec 2025 |
-| **Regulatory analyst** | KIST Europe (EU REACH/K-REACH compliance) · Saarbrücken · 2017 |
+| **Regulatory analyst** | KIST Europe (EU REACH/K-REACH compliance) · Saarbrücken, Germany · 2017 |
 | **Scientific reviewer** | Ministry of Food and Drug Safety · Republic of Korea · 2015–2016 |
-| **M.Sc.** | Food Science (Microbiology & Molecular Methods) · University of Helsinki · *Eximia cum laude* |
+| **M.Sc.** | Food Science (Microbiology & Molecular Methods) · University of Helsinki, Finland 2015 |
 
 **4 peer-reviewed publications** — *Frontiers in Microbiology · Int. J. Food Microbiology · J. Applied Microbiology*
 
