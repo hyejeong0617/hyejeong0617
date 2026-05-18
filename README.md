@@ -18,8 +18,6 @@
 
 PhD-trained scientist applying machine learning to biological and regulatory datasets — genomics, food safety surveillance, and EU regulatory data.
 
-What separates my work from generic data science: **I know what the data actually means**. Recognising MNAR missingness patterns in regulatory submissions, interpreting MDR classifications in AMR surveillance, or knowing why a seasonal bimodal pattern in outbreak data reflects pathogen ecology rather than a reporting artefact — these decisions come from domain knowledge, not from the algorithm.
-
 Open to **Life Sciences Data Analyst / Scientist** roles in biotech, pharma, CRO, and food safety — Germany or remote.
 
 ---
@@ -54,20 +52,6 @@ Three projects analysing the same domain at different scales: **molecular genomi
 
 **Domain**
 `Whole genome sequencing (WGS)` `AMR profiling` `Virulence factor analysis` `EU food law` `RASFF / EFSA data` `Growth kinetics modelling` `Risk assessment`
-
----
-
-## Background
-
-| | |
-|---|---|
-| **PhD** | Food Safety & Microbial Genomics · NTNU, Norway · 2019–2023 |
-| **ML retraining** | Data Science & ML Bootcamp · Ironhack · Oct–Dec 2025 |
-| **Regulatory analyst** | KIST Europe (EU REACH/K-REACH compliance) · Saarbrücken, Germany · 2017 |
-| **Scientific reviewer** | Ministry of Food and Drug Safety · Republic of Korea · 2015–2016 |
-| **M.Sc.** | Food Science (Microbiology & Molecular Methods) · University of Helsinki, Finland 2015 |
-
-**4 peer-reviewed publications** — *Frontiers in Microbiology · Int. J. Food Microbiology · J. Applied Microbiology*
 
 ---
 
