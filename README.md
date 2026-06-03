@@ -26,13 +26,14 @@ Open to **Life Sciences Data Analyst / Scientist** roles in biotech, pharma, CRO
 
 Three projects analysing the same domain at different scales: **molecular genomics → population surveillance → real-time EU regulatory signal.**
 
-| Project | Domain | What it demonstrates | Links |
+****| Project | Domain | What it demonstrates | Links |
 |---------|--------|----------------------|-------|
 | [**RASFF Risk Predictor**](https://github.com/hyejeong0617/rasff_risk_predictor) | EU food safety · ML pipeline | End-to-end ML on 29,984 real regulatory records · NLP · leakage-free design · AUC 0.857 · live Streamlit app | [Repo](https://github.com/hyejeong0617/rasff_risk_predictor) · [Live app](https://hyejeong0617-rasff-risk-predictor-rasff-app-xpyl1f.streamlit.app/) |
 | [**Foodborne Outbreak EDA**](https://github.com/hyejeong0617/foodborne_outbreaks_eda) | Food safety surveillance · CDC | Domain-informed EDA of 18,828 outbreak records · entity normalisation · 3-page interactive dashboard | [Repo](https://github.com/hyejeong0617/foodborne_outbreaks_eda) · [Live app](https://cdcfoodborneoutbreakseda.streamlit.app/) |
+| [**Aeromonas Growth Predictor**](https://github.com/hyejeong0617/aeromonas-growth-predictor) | Predictive microbiology · ML | GPR uncertainty quantification · SHAP explainability · LOSO CV · 8 strains · hurdle technology · live Streamlit app | [Repo](https://github.com/hyejeong0617/aeromonas-growth-predictor) · [Live app](https://aeromonas-growth-predictor.streamlit.app/) |
 | [**AMR Genomics — *Aeromonas* spp.**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Microbial genomics · One Health | Full WGS bioinformatics pipeline · Python analysis reproducing peer-reviewed figures · DOI: 10.3389/fmicb.2023.1175304 | [Repo](https://github.com/hyejeong0617/amr_genomics_aeromonas) · [Live app](https://amrgenomicsaeromonas.streamlit.app/) · [Paper](https://doi.org/10.3389/fmicb.2023.1175304) |
 
-> **Press coverage of the AMR genomics work:** [Nautilus Magazine](https://nautil.us/is-sushi-a-health-hazard-421668) · [IFLScience](https://www.iflscience.com/how-safe-is-the-sushi-you-eat-really-70899)
+> **Press coverage of the AMR genomics work:** [Nautilus Magazine](https://nautil.us/is-sushi-a-health-hazard-421668) · [IFLScience](https://www.iflscience.com/how-safe-is-the-sushi-you-eat-really-70899)****
 
 ---
 
