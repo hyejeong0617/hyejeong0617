@@ -4,7 +4,7 @@
 
 # Hyejeong Lee, Ph.D.
 
-**Scientific Data Science & Applied AI | Food Safety · Microbiology · Regulatory Intelligence**
+**Scientific Data Science & Applied AI | Food Microbiology · Food Safety · Regulatory Intelligence**
 
 *Applying Data Science & AI to Biological Research and Food Safety*
 
@@ -16,11 +16,13 @@
 
 ## About
 
-I am a biotechnology researcher with a Ph.D. in food microbiology and previous regulatory experience at South Korea's **Ministry of Food and Drug Safety**. My regulatory work included reviewing food standards and specifications, responding to related inquiries, and assessing scientific data submitted for pesticide maximum residue limit (MRL) decisions.
+With a Ph.D. in Biotechnology, I bring a research background in food microbiology, antimicrobial resistance, and microbial genomics. My doctoral research at NTNU combined laboratory experiments with genomic and microbial growth data analysis, resulting in peer-reviewed publications.
 
-Building on my research background, I completed data science and machine learning training and now develop independent **Python, ML, and AI** projects. My goal is to apply scientific understanding and analytical methods to practical challenges in **biological data analysis** and **food safety / regulatory intelligence**.
+I am now extending this scientific foundation through **Python, statistics, machine learning, and AI**, developing independent projects in predictive microbiology, foodborne outbreak surveillance, and EU food-safety data analysis.
 
-I am pursuing opportunities to contribute and continue learning at the intersection of scientific data, evidence-based research, and responsible AI applications.
+Earlier in my career, I worked at the **Korean food safety authority**, reviewing food standards and specifications, responding to regulatory inquiries, and evaluating scientific evidence for pesticide maximum residue limit (MRL) decisions. This experience also shapes my interest in applying data science and AI to evidence-based regulatory intelligence.
+
+I am seeking opportunities to contribute and grow at the intersection of **scientific data science, food safety, and applied AI**.
 
 ## Portfolio — Two Complementary Career Tracks
 
