@@ -40,7 +40,7 @@ Regulatory datasets, evidence-grounded information retrieval, and AI workflow ev
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**EU RASFF Classification — Audited Rebuild**](https://github.com/hyejeong0617/rasff_risk_predictor/tree/main/RASFF_Rebuild) · [repository](https://github.com/hyejeong0617/rasff_risk_predictor) | Retrospective classification of the **recorded** RASFF \`serious\` label. Rebuilt with chronological splits, separate calibration, and model–app consistency checks. Frozen holdout: **4,853 records; ROC-AUC 0.844**. Not a prospective regulatory risk-decision system. |
+| [**EU RASFF Classification — Audited Rebuild**](https://github.com/hyejeong0617/rasff_risk_predictor/tree/main/RASFF_Rebuild) · [repository](https://github.com/hyejeong0617/rasff_risk_predictor) | Retrospective classification of the **recorded** RASFF `serious` label. Rebuilt with chronological splits, separate calibration, and model–app consistency checks. Frozen holdout: **4,853 records; ROC-AUC 0.844**. Not a prospective regulatory risk-decision system. |
 | **EU Food Regulatory Intelligence Agents — Project 003** | Compared prompt-only, RAG, tools, and investigation workflows on a fixed EU food-law case. Evaluated answer correctness, source grounding, completeness, and limitations. Includes two separate implementations below. |
 
 **Project 003 · Two implementations**
