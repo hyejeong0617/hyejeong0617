@@ -6,77 +6,41 @@
 
 **Scientific Data Science & Applied AI | Food Microbiology · Food Safety · Regulatory Intelligence**
 
-*Applying Data Science & AI to Biological Research and Food Safety*
+*Building data-driven and AI tools for biological research and food safety*
 
 [LinkedIn](https://www.linkedin.com/in/hye-jeong-lee-75887465/) · [Email](mailto:hyejeong0617@gmail.com) · Hannover, Germany
 
 </div>
 
----
-
-## Portfolio Highlights
-
-| Featured project | Key result | Skills demonstrated |
-| --- | --- | --- |
-| [**AMR Genomics · Aeromonas**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Peer-reviewed WGS research; 22 publicly deposited genome assemblies ([NCBI PRJNA877469](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA877469)) | Bioinformatics · AMR analysis · Scientific Python |
-| [**Aeromonas Growth Predictor**](https://github.com/hyejeong0617/aeromonas-growth-predictor) | Gaussian process regression with leave-one-strain-out validation (**R² = 0.892 ± 0.040**, as reported in the project) | Predictive microbiology · ML validation · Explainability · [Live app](https://aeromonas-growth-predictor.streamlit.app/) |
-| [**EU RASFF · Audited ML Rebuild**](https://github.com/hyejeong0617/rasff_risk_predictor/tree/main/RASFF_Rebuild) | Retrospective label classification on a frozen **4,853-record** holdout (**ROC-AUC 0.844**); not prospective risk prediction | Temporal evaluation · Model auditing · ML pipelines |
-
-**Also exploring applied AI:** [EU Food Regulatory Agent](https://github.com/hyejeong0617/Regulatory_agent) — compared prompt-only, RAG, tool-assisted retrieval and investigation workflows on a fixed benchmark, with explicit grounding and limitations.
-
 ## About
 
-With a Ph.D. in Biotechnology, I bring a research background in food microbiology, antimicrobial resistance, and microbial genomics. My doctoral research at NTNU combined laboratory experiments with genomic and microbial growth data analysis, resulting in peer-reviewed publications.
+I hold a Ph.D. in Biotechnology from NTNU, with research experience in food microbiology, antimicrobial resistance, and microbial genomics. I also worked at the Korean food safety authority, evaluating evidence for food standards and pesticide maximum residue limits.
 
-I am now extending this scientific foundation through **Python, statistics, machine learning, and AI**, developing independent projects in predictive microbiology, foodborne outbreak surveillance, and EU food-safety data analysis.
+I now build **Python, machine-learning, bioinformatics, and applied-AI projects** that combine scientific reasoning with reproducible analysis and transparent evaluation.
 
-Earlier in my career, I worked at the **Korean food safety authority**, reviewing food standards and specifications, responding to regulatory inquiries, and evaluating scientific evidence for pesticide maximum residue limit (MRL) decisions. This experience also shapes my interest in applying data science and AI to evidence-based regulatory intelligence.
+## Selected Projects
 
-I am seeking opportunities to contribute and grow at the intersection of **scientific data science, food safety, and applied AI**.
-
-## Portfolio — Two Complementary Career Tracks
-
-### Track A · Biological & Scientific Data
-
-Scientific data analysis, predictive microbiology, and biological interpretation.
-
-| Project | What it demonstrates |
+| Project | Evidence & skills |
 | --- | --- |
-| [**Aeromonas Growth Predictor**](https://github.com/hyejeong0617/aeromonas-growth-predictor) | Machine-learning extension of published microbial growth research; Gaussian process regression, leave-one-strain-out validation, and an interactive analysis app. |
-| [**AMR Genomics — Aeromonas spp.**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Ph.D. research using established WGS and bioinformatics tools to investigate antimicrobial resistance and virulence; later Python analysis and visualization extensions. [Peer-reviewed paper](https://doi.org/10.3389/fmicb.2023.1175304). |
-| [**Foodborne Outbreak Surveillance Analysis**](https://github.com/hyejeong0617/foodborne_outbreaks_eda) | Python and SQL analysis of CDC outbreak records, including data cleaning, entity normalization, exploratory analysis, and an interactive dashboard. |
+| [**AMR Genomics · Aeromonas**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Peer-reviewed WGS research; **22 deposited genome assemblies** ([NCBI PRJNA877469](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA877469)). Bioinformatics · AMR · Python analysis. |
+| [**Aeromonas Growth Predictor**](https://github.com/hyejeong0617/aeromonas-growth-predictor) | GPR model with leave-one-strain-out validation (**R² = 0.892 ± 0.040**, project-reported). Predictive microbiology · ML · SHAP · [Streamlit app](https://aeromonas-growth-predictor.streamlit.app/). |
+| [**EU RASFF · Audited ML Rebuild**](https://github.com/hyejeong0617/rasff_risk_predictor/tree/main/RASFF_Rebuild) | Retrospective classification of recorded labels; **ROC-AUC 0.844** on a frozen 4,853-record test set. Temporal validation · Model auditing · Streamlit. *Not prospective risk prediction.* |
+| [**EU Food Regulatory Agent**](https://github.com/hyejeong0617/Regulatory_agent) | Compared prompt-only, RAG, tools, and investigation agents on 10 fixed questions, evaluating correctness, grounding, and completeness. [Independent Codex-built implementation](https://github.com/hyejeong0617/regulatory-investigation-agent) also available. *Research prototypes, not legal advice.* |
 
-### Track B · Food Safety & Regulatory Intelligence
+More work: [Foodborne Outbreaks EDA & SQL dashboard](https://github.com/hyejeong0617/foodborne_outbreaks_eda).
 
-Regulatory datasets, evidence-grounded information retrieval, and AI workflow evaluation.
+## Technical Skills
 
-| Project | What it demonstrates |
-| --- | --- |
-| [**EU RASFF Classification — Audited Rebuild**](https://github.com/hyejeong0617/rasff_risk_predictor/tree/main/RASFF_Rebuild) · [repository](https://github.com/hyejeong0617/rasff_risk_predictor) | Retrospective classification of the **recorded** RASFF `serious` label. Rebuilt with chronological splits, separate calibration, and model–app consistency checks. Frozen holdout: **4,853 records; ROC-AUC 0.844**. Not a prospective regulatory risk-decision system. |
-| **EU Food Regulatory Intelligence Agents — Project 003** | Compared prompt-only, RAG, tools, and investigation workflows on a fixed EU food-law case. Evaluated answer correctness, source grounding, completeness, and limitations. Includes two separate implementations below. |
+**Data science & ML:** Python · SQL · pandas · scikit-learn · model validation · XGBoost · LightGBM
 
-**Project 003 · Two implementations**
+**Applied AI:** NLP · BM25 · RAG · LLM tool use · evidence-grounding evaluation
 
-- [**Human-guided Architecture Learning Lab**](https://github.com/hyejeong0617/Regulatory_agent) — Built and evaluated the progression from prompt-only responses to RAG, tool-assisted retrieval, and a multi-step investigation workflow.
-- [**Independent Codex-built Investigation Agent**](https://github.com/hyejeong0617/regulatory-investigation-agent) — AI-led implementation under human-defined requirements, using structured legal evidence retrieval and citation checks. [Architecture and evaluation comparison](https://github.com/hyejeong0617/Regulatory_agent/blob/main/docs/PROJECT003_COMPARISON.md).
+**Scientific computing & tools:** WGS/bioinformatics · predictive microbiology · Jupyter · Streamlit · Plotly · Git
 
-Both are **research/evaluation prototypes**, based on historical legal-document snapshots and a limited benchmark. They are not production compliance tools or legal advice.
+## Research & Contact
 
-**Cross-track work:** CDC surveillance analysis connects biological evidence with public-health data; RASFF classification connects ML methodology with regulatory datasets.
+**Three first-author peer-reviewed publications** from Ph.D. research on *Aeromonas* in ready-to-eat seafood. Research findings, subsequent code extensions, and AI-assisted prototypes are distinguished in their respective repositories.
 
-## Methods & Tools
+**Open to scientific data science and applied-AI opportunities** in food safety, biotechnology, and related domains.
 
-- **Data analysis & ML:** Python, SQL, pandas, scikit-learn, statistical analysis, model validation, XGBoost, LightGBM
-- **Applied AI & information retrieval:** NLP, TF-IDF, sentence-transformers, BM25, RAG, LLM tool use, evidence/citation evaluation
-- **Research & domain:** Food microbiology, predictive microbiology, antimicrobial resistance, microbial genomics, food standards and specifications, RASFF data
-- **Communication & apps:** Jupyter, Git, Streamlit, Plotly, matplotlib, technical reports, peer-reviewed research
-
-## Research & Approach
-
-My Ph.D. work at the Norwegian University of Science and Technology (NTNU) resulted in three first-author publications on *Aeromonas* in ready-to-eat seafood. My more recent portfolio work extends this scientific background into data analysis, machine learning, and experimental regulatory AI.
-
-I distinguish **research results, later code-based extensions, and learning prototypes**. I document evaluation assumptions and limitations rather than presenting historical classification results or retrieved legal text as operational regulatory decisions.
-
----
-
-*Korean (native) · English (advanced) · German (learning)*
+*Korean (native) · English (professional) · German (learning)*
