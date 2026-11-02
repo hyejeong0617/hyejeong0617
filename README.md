@@ -14,6 +14,16 @@
 
 ---
 
+## Portfolio Highlights
+
+| Featured project | Key result | Skills demonstrated |
+| --- | --- | --- |
+| [**AMR Genomics · Aeromonas**](https://github.com/hyejeong0617/amr_genomics_aeromonas) | Peer-reviewed WGS research; 22 publicly deposited genome assemblies ([NCBI PRJNA877469](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA877469)) | Bioinformatics · AMR analysis · Scientific Python |
+| [**Aeromonas Growth Predictor**](https://github.com/hyejeong0617/aeromonas-growth-predictor) | Gaussian process regression with leave-one-strain-out validation (**R² = 0.892 ± 0.040**, as reported in the project) | Predictive microbiology · ML validation · Explainability · [Live app](https://aeromonas-growth-predictor.streamlit.app/) |
+| [**EU RASFF · Audited ML Rebuild**](https://github.com/hyejeong0617/rasff_risk_predictor/tree/main/RASFF_Rebuild) | Retrospective label classification on a frozen **4,853-record** holdout (**ROC-AUC 0.844**); not prospective risk prediction | Temporal evaluation · Model auditing · ML pipelines |
+
+**Also exploring applied AI:** [EU Food Regulatory Agent](https://github.com/hyejeong0617/Regulatory_agent) — compared prompt-only, RAG, tool-assisted retrieval and investigation workflows on a fixed benchmark, with explicit grounding and limitations.
+
 ## About
 
 With a Ph.D. in Biotechnology, I bring a research background in food microbiology, antimicrobial resistance, and microbial genomics. My doctoral research at NTNU combined laboratory experiments with genomic and microbial growth data analysis, resulting in peer-reviewed publications.
