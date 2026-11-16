@@ -9,7 +9,7 @@ Food Microbiology · Food Safety · Regulatory Intelligence
 
 *Turning scientific and regulatory data into reproducible analyses, evaluated models, and evidence-aware AI applications.*
 
-[LinkedIn](https://www.linkedin.com/in/hye-jeong-lee-75887465/) · [Email](mailto:hyejeong0617@gmail.com) · Hannover, Germany
+[LinkedIn](https://www.linkedin.com/in/hyejeong-lee-75887465/) · [Email](mailto:hyejeong0617@gmail.com) · Hannover, Germany
 
 </div>
 
@@ -18,6 +18,14 @@ Food Microbiology · Food Safety · Regulatory Intelligence
 I'm a biotechnology Ph.D. (NTNU) with a research background in **food microbiology, antimicrobial resistance, and microbial genomics**, and prior experience reviewing scientific evidence for food standards and pesticide maximum residue limits at South Korea's food safety authority (MFDS).
 
 I work at the intersection of **scientific data analysis** and **applied AI**—from exploratory analysis and bioinformatics to machine learning, evidence retrieval, evaluation, and interactive research tools. My portfolio connects domain knowledge with transparent methods, documented limitations, and usable demonstrations.
+
+
+## About
+
+I'm a biotechnology researcher with a Ph.D. in Biotechnology, specializing in food microbiology, antimicrobial resistance, and microbial genomics. I also have professional experience reviewing scientific evidence for food safety standards at South Korea's Ministry of Food and Drug Safety (MFDS).
+
+I apply this scientific foundation to data analysis, predictive modelling, and AI evaluation through independent portfolio projects. My work emphasizes reproducible analysis, transparent validation, and evidence-based interpretation of biological, food safety, and regulatory information.
+
 
 ## Selected Projects
 
